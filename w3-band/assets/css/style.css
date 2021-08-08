@@ -370,6 +370,7 @@ html {
       width: 60%;
       margin-left: 20%;
       margin-left: 20%;
+      margin-top: 12px;
       
    }
    .member-img {
@@ -388,6 +389,10 @@ html {
    }
    .button-contact-send {
       width: 100%;
+      
+   }
+   .contact-send {
+         padding-left: 8px;
    }
    .one-row {
       width: 100%;
@@ -398,7 +403,8 @@ html {
    }
    .slider-content {
       display: none;
-
+   }
+   
 }
 
 
